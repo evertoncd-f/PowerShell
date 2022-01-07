@@ -1,1 +1,2 @@
+Connect-ExchangeOnline
 Set-UserPhoto -Identity "juliosantos@natura.net" -PictureData ([System.IO.File]::ReadAllBytes("C:\temp\123.jpg"))
