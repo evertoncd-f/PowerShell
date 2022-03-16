@@ -1,0 +1,2 @@
+Move-ADObject  –Identity "CN=BRCJRW084099,OU=Desktops,OU=Brasil,OU=Windows10,OU=Ipsum,DC=br,DC=natura" -TargetPath "OU=SM5622 - CleanUP Desktop and Notebooks,OU=Ipsum,DC=br,DC=natura"
+https://theitbros.com/powershell-move-computer-to-ou/
